@@ -1,0 +1,8 @@
+{
+  "name": "LazyType",
+  "description": "An app called 'LazyType' that analyzes inputs in various formats and gives them as text or a document file. Great for note-taking, brainstorming, or creative writing with Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
